@@ -30,5 +30,3 @@
 ![Snake animation](https://github.com/SrGambiarra/SrGambiarra/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-
-## 🥳 Eai curtiu? Aguardo o seu contato
